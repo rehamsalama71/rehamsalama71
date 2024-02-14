@@ -14,7 +14,9 @@
 - 🏢 I'm a Software Engineer and Flutter Devleoper
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
+### Connect with Me :
 
+<a href="https://www.linkedin.com/in/reham-salama-050118270/" target="_blank"><img src="https://img.shields.io/badge/-Reham%20Salama-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
